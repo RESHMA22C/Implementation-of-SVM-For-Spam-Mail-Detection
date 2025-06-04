@@ -71,7 +71,8 @@ y_pred
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/20dedaeb-2a93-4292-88d0-6f9e137a6ac2)
+![image](https://github.com/user-attachments/assets/dba78831-1979-4267-aa9f-1da71b6870a0)
+
 
 ![image](https://github.com/user-attachments/assets/8a49155f-996d-48d3-9ead-f13e05103b3d)
 
